@@ -1,4 +1,4 @@
-# Microstack-on-Ubuntu-EC2
+# Microstack-on-Ubuntu-EC2-AzureVM
 
 Setting up Microstack on AWS EC2 or Azure Virtual Machine = ubuntu
 
@@ -9,6 +9,8 @@ ubuntu 18.04 or 20.04 LTS
 RAM: more than 8GB
 
 Storage: 30 GB
+
+## Spin up the instance and try below commands
 
 
 ## Setting up basic updates on Ubuntu server
