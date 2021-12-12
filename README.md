@@ -10,7 +10,7 @@ RAM: more than 8GB
 
 Storage: 30 GB
 
-## Spin up the instance and try below commands
+### Spin up the instance and try below commands
 
 
 ## Setting up basic updates on Ubuntu server
