@@ -10,6 +10,10 @@ RAM: more than 8GB
 
 Storage: 30 GB
 
+Install Putty  (to access ubuntu server)
+
+Install Puttygen (to convert .pem file to .ppk)
+
 ### Spin up the instance and try below commands
 
 
