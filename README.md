@@ -7,6 +7,7 @@ Requirements:-
 ubuntu 18.04 or 20.04 LTS
 
 RAM: more than 8GB
+
 Storage: 30 GB
 
 
@@ -21,6 +22,10 @@ sudo apt install xrdp
 sudo apt install ubuntu-desktop
 
 sudo apt install snapd (must be pre-installed)
+
+sudo apt install nginx 
+
+sudo apt-get install openvswitch-switch-dpdk
 
 ## Run the ubuntu instance
 
